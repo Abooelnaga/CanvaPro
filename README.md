@@ -24,5 +24,5 @@ This is a website designed to provide free access to **Canva Pro**, offering use
 ---
 
  🌐 Live Demo
-[Visit the website]([url](https://abooelnaga.github.io/CanvaPro/))
+[Visit the website]([https://abooelnaga.github.io/CanvaPro/])
 
